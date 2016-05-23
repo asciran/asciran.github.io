@@ -1,0 +1,16 @@
+# Welcome to Jekyll!
+#
+# Site settings
+title: Asciran
+email: email@asciran.online
+description: > # this means to ignore newlines until "baseurl:"
+  I like the ".online" TLD. It reassures you that the website you're visiting
+  is on the internet.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: asciran
+github_username:  asciran
+repository: asciran/asciran.github.io
+
+# Build settings
+markdown: kramdown
